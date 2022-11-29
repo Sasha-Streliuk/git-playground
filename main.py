@@ -44,6 +44,7 @@ while not is_game_over():
 
     if not guess_is_valid(guess):
         continue
+
     if guess in guesses:
         print('You have already used this word!')
         continue
@@ -58,3 +59,5 @@ while not is_game_over():
     else:
         errors += 1
         print(f"Oops :( No such word, you have {ERRORS_TO_LOSE - errors} lives more")
+
+print('You lost :(')
