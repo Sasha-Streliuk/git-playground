@@ -67,3 +67,5 @@ print('fff')
 a = 3
 b = 5
 c = 9
+
+vv = 77
