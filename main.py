@@ -63,3 +63,4 @@ while not is_game_over():
 
 print(f'Dear {name}, you lost :(')
 print('))')
+print('fff')
