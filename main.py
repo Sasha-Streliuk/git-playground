@@ -65,3 +65,5 @@ print(f'Dear {name}, you lost :(')
 print('))')
 print('fff')
 a = 3
+b = 5
+c = 9
